@@ -1,0 +1,1 @@
+# inputting-no.-and-then-creating-array-till-that-no.-and-finding-factorial-of-elements-in-array.js
